@@ -24,6 +24,3 @@ Queries
 - `DELETE FROM table_name WHERE condition;` - Delete records
 - `SELECT * FROM table1 INNER JOIN table2 ON table1.id = table2.id;` - Inner join example
 
-Examples
-- Retrieve all employees with salary > 50000: `SELECT * FROM employees WHERE salary > 50000;`
-- Get total sales by region: `SELECT region, SUM(sales) FROM sales GROUP BY region;`
