@@ -2,10 +2,10 @@
 # Supplier-to-Customer Analytics
 **Advanced SQL Analytics for Retail & Supply Chain Management**
 
-## 📌 Project Overview
+##  Project Overview
 This project demonstrates the application of MySQL to solve real-world business problems in a retail environment. It covers a wide range of SQL concepts from basic data retrieval to intermediate techniques like Multi-table Joins, View creation, and Window Functions (RANK) to analyze customer behavior, supplier performance, and sales trends.
 
-## 🛠️ Tech Stack & Key Concepts
+##  Tech Stack & Key Concepts
 * **Database:** MySQL
 * **Core Concepts Used:**
     * **Data Aggregation:** Group By and Having clauses for country-wise and monthly analysis.
@@ -21,11 +21,11 @@ This project demonstrates the application of MySQL to solve real-world business 
 - **Competitor Analysis:** Identifying top-selling products and their market competitors.
 - **Inventory Tracking:** Filtering active vs. discontinued products.
 
-## 📂 Repository Structure
+##  Repository Structure
 * `MySQL_Project_Script.sql`: The complete SQL script containing all queries and logic.
 * `Schema_Documentation.md`: (Optional) Brief description of the table relationships.
 
-## 📈 Sample Analytics Performed
+##  Sample Analytics Performed
 - Top 2 suppliers per country using `RANK()` function.
 - View creation for real-time sales monitoring by supplier.
 - Identifying high-revenue products using multi-table aggregation.
